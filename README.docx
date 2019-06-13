@@ -1,6 +1,6 @@
 		      				JAVA Design Patterns
 
-ADesign patterns are well-proved solution for solving the specific problem/task.
+A Design patterns are well-proved solution for solving the specific problem/task.
 
 Problem Given:
 Suppose you want to create a class for which only a single instance (or object) should be created and that single object can be used by all other classes.
