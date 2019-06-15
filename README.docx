@@ -41,10 +41,10 @@ Basically, design patterns are categorized into two parts:
 
 2) Structural Pattern
 
-	Adapter PatternBridge Pattern
-	Composite PatternDecorator Pattern
-	Facade PatternFlyweight Pattern
-	proxy Pattern
+	Adapter PatternBridge Pattern.
+	Composite PatternDecorator Pattern.
+	Facade PatternFlyweight Pattern.
+	proxy Pattern.
 
 3) Behavioral Pattern
 
