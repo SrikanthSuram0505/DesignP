@@ -18,6 +18,8 @@ Advantage of design pattern:
 5. They are well-proved and testified solutions since they have been built upon the knowledge and experience of expert software developers.
 6. Design patterns don't guarantee an absolute solution to a problem. They provide clarity to the system architecture and the possibility of building a better system.
 
+
+
 When should we use the design patterns?
 We must use the design patterns during the analysis and requirement phase of SDLC(Software Development Life Cycle).
 Design patterns ease the analysis and requirement phase of SDLC by providing information based on prior hands-on experiences.
@@ -39,14 +41,14 @@ Basically, design patterns are categorized into two parts:
 	Builder Pattern
 	Object Pool Pattern
 
-2) Structural Pattern
+2) Structural Pattern.
 
 	Adapter PatternBridge Pattern
 	Composite PatternDecorator Pattern
 	Facade PatternFlyweight Pattern
 	proxy Pattern
 
-3) Behavioral Pattern
+3) Behavioral Pattern.
 
 	Chain of ResponsibilityCommand Pattern
 	Interpreter PatternIterator Pattern
